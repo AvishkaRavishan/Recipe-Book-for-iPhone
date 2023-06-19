@@ -1,6 +1,4 @@
-# Recipe-Book-for-iPhone
-This iOS App is built for study purpose at the university - MADD Module
-
+This iOS App is built for study purposes at the university - MADD Module
 
 # Project Name - RecipeBook
 #### 01. Brief Description of Project - 
