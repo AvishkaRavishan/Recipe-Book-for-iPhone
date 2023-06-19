@@ -1,0 +1,66 @@
+/* 
+  Localizable.strings
+  RecipeBook
+
+  Created by AVISHKA RAVISHAN on 2023-06-16.
+  
+*/
+
+/* Localizable.strings (Base) */
+
+//Add View
+"Recipe Details" = "Recipe Details EN";
+"Recipe Title" = "Recipe Title";
+"Image URL" = "Image URL";
+"Ingredients" = "Ingredients";
+"New Ingredient" = "New Ingredient";
+"Instructions" = "Instructions";
+"Add Recipe" = "Add Recipe";
+"Error" = "Error";
+"Recipe title is required." = "Recipe title is required.";
+"Success" = "Success";
+"Recipe added successfully" = "Recipe added successfully";
+
+//SearchView
+"noRecipesFound" = "No recipes found";
+"searchRecipes" = "Search Recipes";
+
+//ContentView
+"recipes" = "Recipes";
+"search" = "Search";
+"addRecipe" = "Add Recipe";
+
+//ListView
+//"recipes" = "Recipes";
+"edit" = "Edit";
+
+
+
+
+/* Localizable.strings (si) */
+
+//Add View
+"Recipe Details" = "වට්ටෝරු විස්තර";
+"Recipe Title" = "වට්ටෝරු මාතෘකාව";
+"Image URL" = "රූපයේ වෙබ් ලිපිනය";
+"Ingredients" = "අමුද්රව්ය";
+"New Ingredient" = "නව අමුද්රව්ය";
+"Instructions" = "උපදෙස්";
+"Add Recipe" = "වට්ටෝරුව එකතු කරන්න";
+"Error" = "දෝෂය";
+"Recipe title is required." = "වට්ටෝරු මාතෘකාව අවශ්ය වේ.";
+"Success" = "සාර්තකයි";
+"Recipe added successfully" = "වට්ටෝරුව සාර්ථකව එකතු කරන ලදී.";
+
+//SearchView
+"noRecipesFound" = "වට්ටෝරු හමු නොවීය";
+"searchRecipes" = "වට්ටෝරු සොයන්න";
+
+//ContentView
+"recipes" = "වට්ටෝරු";
+"search" = "සෙවීම";
+"addRecipe" = "වට්ටෝරුව එකතු කරන්න";
+
+//ListView
+//"recipes" = "";
+"edit" = "සංස්කරණය කරන්න";
