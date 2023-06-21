@@ -1,5 +1,5 @@
 New App: Localisation added; Sinhala Language
-link: https://github.com/AvishkaRavishan/RecipeBook.git
+#link: https://github.com/AvishkaRavishan/RecipeBook.git
 
 This iOS App is built for study purposes at the university - MADD Module
 
